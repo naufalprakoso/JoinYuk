@@ -1,0 +1,2 @@
+# JoinYuk
+Tugas Entrepreneur I
