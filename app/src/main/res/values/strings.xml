@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">JoinYuk</string>
+    <string name="message">Message</string>
+    <string name="schedule">Schedule</string>
+    <string name="add_activity">Add Activity</string>
+    <string name="find_activity">Find Activity</string>
+    <string name="home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_feed">News Feed</string>
+    <string name="activity_name">Activity Name</string>
+    <string name="input_your_activity_name">Input your activity name…</string>
+    <string name="location">Location</string>
+    <string name="input_your_location">Input your location…</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="capacity">Capacity</string>
+    <string name="input_your_capacity">Input your capacity…</string>
+    <string name="input_your_activity_date">Input your activity date…</string>
+    <string name="input_your_activity_time">Input your activity time…</string>
+    <string name="description">Description</string>
+    <string name="create">Create</string>
+    <string name="must_be_filled">Must be filled!</string>
+    <string name="input_your_description">Input your description…</string>
+    <string name="search">Search…</string>
+    <string name="activity_category">Activity Category</string>
+    <string name="join">Join</string>
+
+    <!--Activity Category-->
+    <string-array name="activity_category_array">
+        <item>Choose Activity Category</item>
+        <item>Game</item>
+        <item>Sport</item>
+        <item>Fun Activity</item>
+    </string-array>
+    <string name="title_activity_add_message">AddMessageActivity</string>
 </resources>

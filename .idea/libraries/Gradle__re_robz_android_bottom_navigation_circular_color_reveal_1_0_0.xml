@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: re.robz.android:bottom-navigation-circular-color-reveal-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bottom-navigation-circular-color-reveal-1.0.0.aar/105d33ad32a3e29159829bfb046a0efb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bottom-navigation-circular-color-reveal-1.0.0.aar/105d33ad32a3e29159829bfb046a0efb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/re.robz.android/bottom-navigation-circular-color-reveal/1.0.0/ad3eae6044d668eeb65332f55540e52037c1d3a5/bottom-navigation-circular-color-reveal-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
